@@ -31,3 +31,6 @@ package-lock.json
 # Temp
 *.tmp
 *.temp
+
+# WISPR system files
+.wispr_workspace.lock
